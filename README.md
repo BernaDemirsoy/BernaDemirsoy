@@ -2,7 +2,7 @@
 ### <div align="center">Hello👋
 I'm an Industrial Engineer and Jr. Software Developer👨‍💻
 I'm currently improving myself on C#, .NET, and ASP.NET Core for back-end tech and JS, HTML, and CSS for front-end tech 🚀
-I'm open to working with a Tech Company that looks forward </div>  
+I'm open to working with a Tech Company that supports me in going forward every step I'm going to take </div>  
   
 
 <br/>  
