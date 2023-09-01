@@ -79,8 +79,6 @@ I'm open to working with a Tech Company that looks forward </div>
 
 <br/>  
 
-<div align="center"><img src="https://rishavanand.github.io/static/images/spotify-readme-example.svg" /></div>  
-
 <br/>  
 
 <div align="center">
@@ -94,4 +92,4 @@ I'm open to working with a Tech Company that looks forward </div>
 <br />
 
 ----
-<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
+<div align="center" display="hidden">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
