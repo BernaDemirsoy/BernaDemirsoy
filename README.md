@@ -2,7 +2,7 @@
 ### <div align="center">Hello👋
 <ul>
   <li>👨‍💻 I'm an Industrial Engineer and Jr. Software Developer</li>
-  <li🚀 I'm currently improving myself on C#, .NET, and ASP.NET Core for back-end tech and JS, React.js, HTML, and CSS for front-end tech. </li>
+  <li>🚀 I'm currently improving myself on C#, .NET, and ASP.NET Core for back-end tech and JS, React.js, HTML, and CSS for front-end tech. </li>
   <li>🎯 I always set goals for the future. Some of those are <b> to learn node.js for backend development </b>  and <b> to be the best women developer for my country Turkey as much as I can </b></li>
   <li>💼 I'm open to working with a Tech Company that supports me in going forward every step I'm going to take </div>  </li>
 </ul>
