@@ -1,7 +1,8 @@
 
 ### <div align="center">Hello👋
 I'm an Industrial Engineer and Jr. Software Developer👨‍💻
-I'm currently improving myself on C#, .NET, and ASP.NET Core for back-end tech and JS, React.js, HTML, and CSS for front-end tech 🚀
+I'm currently improving myself on C#, .NET, and ASP.NET Core for back-end tech and JS, React.js, HTML, and CSS for front-end tech. 🚀
+I always set goals for the future. Some of those are <b> to learn node.js for backend development </b>  and <b> to be the best women developer for my country Turkey as much as I can </b>
 I'm open to working with a Tech Company that supports me in going forward every step I'm going to take </div>  
   
 
