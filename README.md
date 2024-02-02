@@ -1,7 +1,7 @@
 
 ### <div align="center">Hello👋
 <ul>
-  <li>👨‍💻 I'm an Industrial Engineer and Jr. Software Developer</li>
+  <li>👨‍💻 I'm an Industrial Engineer and Software Developer</li>
   <li>🚀 I'm currently improving myself on C#, .NET, and ASP.NET Core for back-end tech and JS, React.js, HTML, and CSS for front-end tech. </li>
   <li>🎯 I always set goals for the future. Some of those are <b> to learn node.js for backend development </b>  and <b> to be a good and beneficial women developer as much as I can </b></li>
   
